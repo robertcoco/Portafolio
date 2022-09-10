@@ -1,0 +1,15 @@
+{
+    "name": "abad0/portafolio",
+    "autoload": {
+        "psr-4": {
+            "Abad0\\Portafolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angel",
+            "email": "perdonholaperdon123@gmail.com"
+        }
+    ],
+    "require": {}
+}
